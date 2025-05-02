@@ -1,9 +1,9 @@
 import requests
-import random #importar random para no solo limitar la cantidad de pokemon, si no tambien que se elija un pokemon aleatorio cada que se active el modulo
+import json
 base_url = "https://pokeapi.co/api/v2/"
 x=0
 pokemon = {}
-while x < 2:
+while x < 151:
     def get_pokemon_info(id): #Una funcion para usar después 
         url = f"{base_url}/pokemon/{id}" #Esto para que podamos cambiar la url a lo que necesitamos, una url que puede cambiar la id
         response = requests.get(url)
@@ -20,4 +20,7 @@ while x < 2:
     if pokemon_info: #Ando pensando en quitar este if, pero no estoy seguro 
         Tipos = [typ["type"]["name"] for typ in pokemon_info["types"]] #este tuvo que ser diferente, porque al haber 2 instancias de "Types" soltaba error
         pokemon.update({y: "id: " f"{pokemon_info["id"]}, " "altura: " f"{pokemon_info["height"]}" "m, " "Peso: " f"{pokemon_info["weight"]}" "Kg, " "Pokemon de tipo: "})
-print (pokemon)
+json_string = json.dumps(pokemon, indent=4)
+print(json_string)
+with open("data.json", "w") as f:
+    json.dump(pokemon, f, indent=4)
