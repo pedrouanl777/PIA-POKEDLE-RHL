@@ -19,7 +19,7 @@ while x < 151:
     y = f"{pokemon_info["name"].capitalize()}"
     if pokemon_info: #Ando pensando en quitar este if, pero no estoy seguro 
         Tipos = [typ["type"]["name"] for typ in pokemon_info["types"]] #este tuvo que ser diferente, porque al haber 2 instancias de "Types" soltaba error
-        pokemon.update({y: f"{pokemon_info["id"]},f"{pokemon_info["height"]}m",f"{pokemon_info["weight"]}Kg","Pokemon de tipo: "})
+        pokemon.update({y: f"{pokemon_info["id"]}",f"{pokemon_info["height"]}m",f"{pokemon_info["weight"]}Kg","Pokemon de tipo: "})
 json_string = json.dumps(pokemon, indent=4)
 print(json_string)
 with open("data.json", "w") as f:
