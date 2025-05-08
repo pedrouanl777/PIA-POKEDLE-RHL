@@ -1,4 +1,4 @@
-from pokeapi import Datos
-
+from pokeapi import client
+# do not modify
 if __name__ == "__main__":
-    Datos.gotta_catch_em_all()
+    client.gotta_catch_em_all()
