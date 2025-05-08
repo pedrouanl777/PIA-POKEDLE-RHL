@@ -22,7 +22,7 @@ def gotta_catch_em_all():
                 "peso": info["weight"],
                 "tipo_pokemon": [pokemon_type["type"]["name"] for pokemon_type in info["types"]]
             }
-gotta_catch_em_all()
+gotta_catch_em_all() #inicializa la funcion 
 json_string = json.dumps(pokemon, indent=4)
 print(json_string)
 with open("datos_estructurados.json", "w") as f:
