@@ -17,6 +17,7 @@ def gotta_catch_em_all():
         if info: 
             pokemon_id = info["id"]
             pokemon[pokemon_id] = {
+                "id": info["id"],
                 "nombre": info["name"],
                 "altura": info["height"],
                 "peso": info["weight"],
