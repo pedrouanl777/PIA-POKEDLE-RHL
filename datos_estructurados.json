@@ -1,5 +1,6 @@
 {
     "1": {
+        "id": 1,
         "nombre": "bulbasaur",
         "altura": 7,
         "peso": 69,
@@ -9,6 +10,7 @@
         ]
     },
     "2": {
+        "id": 2,
         "nombre": "ivysaur",
         "altura": 10,
         "peso": 130,
@@ -18,6 +20,7 @@
         ]
     },
     "3": {
+        "id": 3,
         "nombre": "venusaur",
         "altura": 20,
         "peso": 1000,
@@ -27,6 +30,7 @@
         ]
     },
     "4": {
+        "id": 4,
         "nombre": "charmander",
         "altura": 6,
         "peso": 85,
@@ -35,6 +39,7 @@
         ]
     },
     "5": {
+        "id": 5,
         "nombre": "charmeleon",
         "altura": 11,
         "peso": 190,
@@ -43,6 +48,7 @@
         ]
     },
     "6": {
+        "id": 6,
         "nombre": "charizard",
         "altura": 17,
         "peso": 905,
@@ -52,6 +58,7 @@
         ]
     },
     "7": {
+        "id": 7,
         "nombre": "squirtle",
         "altura": 5,
         "peso": 90,
@@ -60,6 +67,7 @@
         ]
     },
     "8": {
+        "id": 8,
         "nombre": "wartortle",
         "altura": 10,
         "peso": 225,
@@ -68,6 +76,7 @@
         ]
     },
     "9": {
+        "id": 9,
         "nombre": "blastoise",
         "altura": 16,
         "peso": 855,
@@ -76,6 +85,7 @@
         ]
     },
     "10": {
+        "id": 10,
         "nombre": "caterpie",
         "altura": 3,
         "peso": 29,
@@ -84,6 +94,7 @@
         ]
     },
     "11": {
+        "id": 11,
         "nombre": "metapod",
         "altura": 7,
         "peso": 99,
@@ -92,6 +103,7 @@
         ]
     },
     "12": {
+        "id": 12,
         "nombre": "butterfree",
         "altura": 11,
         "peso": 320,
@@ -101,6 +113,7 @@
         ]
     },
     "13": {
+        "id": 13,
         "nombre": "weedle",
         "altura": 3,
         "peso": 32,
@@ -110,6 +123,7 @@
         ]
     },
     "14": {
+        "id": 14,
         "nombre": "kakuna",
         "altura": 6,
         "peso": 100,
@@ -119,6 +133,7 @@
         ]
     },
     "15": {
+        "id": 15,
         "nombre": "beedrill",
         "altura": 10,
         "peso": 295,
@@ -128,6 +143,7 @@
         ]
     },
     "16": {
+        "id": 16,
         "nombre": "pidgey",
         "altura": 3,
         "peso": 18,
@@ -137,6 +153,7 @@
         ]
     },
     "17": {
+        "id": 17,
         "nombre": "pidgeotto",
         "altura": 11,
         "peso": 300,
@@ -146,6 +163,7 @@
         ]
     },
     "18": {
+        "id": 18,
         "nombre": "pidgeot",
         "altura": 15,
         "peso": 395,
@@ -155,6 +173,7 @@
         ]
     },
     "19": {
+        "id": 19,
         "nombre": "rattata",
         "altura": 3,
         "peso": 35,
@@ -163,6 +182,7 @@
         ]
     },
     "20": {
+        "id": 20,
         "nombre": "raticate",
         "altura": 7,
         "peso": 185,
@@ -171,6 +191,7 @@
         ]
     },
     "21": {
+        "id": 21,
         "nombre": "spearow",
         "altura": 3,
         "peso": 20,
@@ -180,6 +201,7 @@
         ]
     },
     "22": {
+        "id": 22,
         "nombre": "fearow",
         "altura": 12,
         "peso": 380,
@@ -189,6 +211,7 @@
         ]
     },
     "23": {
+        "id": 23,
         "nombre": "ekans",
         "altura": 20,
         "peso": 69,
@@ -197,6 +220,7 @@
         ]
     },
     "24": {
+        "id": 24,
         "nombre": "arbok",
         "altura": 35,
         "peso": 650,
@@ -205,6 +229,7 @@
         ]
     },
     "25": {
+        "id": 25,
         "nombre": "pikachu",
         "altura": 4,
         "peso": 60,
@@ -213,6 +238,7 @@
         ]
     },
     "26": {
+        "id": 26,
         "nombre": "raichu",
         "altura": 8,
         "peso": 300,
@@ -221,6 +247,7 @@
         ]
     },
     "27": {
+        "id": 27,
         "nombre": "sandshrew",
         "altura": 6,
         "peso": 120,
@@ -229,6 +256,7 @@
         ]
     },
     "28": {
+        "id": 28,
         "nombre": "sandslash",
         "altura": 10,
         "peso": 295,
@@ -237,6 +265,7 @@
         ]
     },
     "29": {
+        "id": 29,
         "nombre": "nidoran-f",
         "altura": 4,
         "peso": 70,
@@ -245,6 +274,7 @@
         ]
     },
     "30": {
+        "id": 30,
         "nombre": "nidorina",
         "altura": 8,
         "peso": 200,
@@ -253,6 +283,7 @@
         ]
     },
     "31": {
+        "id": 31,
         "nombre": "nidoqueen",
         "altura": 13,
         "peso": 600,
@@ -262,6 +293,7 @@
         ]
     },
     "32": {
+        "id": 32,
         "nombre": "nidoran-m",
         "altura": 5,
         "peso": 90,
@@ -270,6 +302,7 @@
         ]
     },
     "33": {
+        "id": 33,
         "nombre": "nidorino",
         "altura": 9,
         "peso": 195,
@@ -278,6 +311,7 @@
         ]
     },
     "34": {
+        "id": 34,
         "nombre": "nidoking",
         "altura": 14,
         "peso": 620,
@@ -287,6 +321,7 @@
         ]
     },
     "35": {
+        "id": 35,
         "nombre": "clefairy",
         "altura": 6,
         "peso": 75,
@@ -295,6 +330,7 @@
         ]
     },
     "36": {
+        "id": 36,
         "nombre": "clefable",
         "altura": 13,
         "peso": 400,
@@ -303,6 +339,7 @@
         ]
     },
     "37": {
+        "id": 37,
         "nombre": "vulpix",
         "altura": 6,
         "peso": 99,
@@ -311,6 +348,7 @@
         ]
     },
     "38": {
+        "id": 38,
         "nombre": "ninetales",
         "altura": 11,
         "peso": 199,
@@ -319,6 +357,7 @@
         ]
     },
     "39": {
+        "id": 39,
         "nombre": "jigglypuff",
         "altura": 5,
         "peso": 55,
@@ -328,6 +367,7 @@
         ]
     },
     "40": {
+        "id": 40,
         "nombre": "wigglytuff",
         "altura": 10,
         "peso": 120,
@@ -337,6 +377,7 @@
         ]
     },
     "41": {
+        "id": 41,
         "nombre": "zubat",
         "altura": 8,
         "peso": 75,
@@ -346,6 +387,7 @@
         ]
     },
     "42": {
+        "id": 42,
         "nombre": "golbat",
         "altura": 16,
         "peso": 550,
@@ -355,6 +397,7 @@
         ]
     },
     "43": {
+        "id": 43,
         "nombre": "oddish",
         "altura": 5,
         "peso": 54,
@@ -364,6 +407,7 @@
         ]
     },
     "44": {
+        "id": 44,
         "nombre": "gloom",
         "altura": 8,
         "peso": 86,
@@ -373,6 +417,7 @@
         ]
     },
     "45": {
+        "id": 45,
         "nombre": "vileplume",
         "altura": 12,
         "peso": 186,
@@ -382,6 +427,7 @@
         ]
     },
     "46": {
+        "id": 46,
         "nombre": "paras",
         "altura": 3,
         "peso": 54,
@@ -391,6 +437,7 @@
         ]
     },
     "47": {
+        "id": 47,
         "nombre": "parasect",
         "altura": 10,
         "peso": 295,
@@ -400,6 +447,7 @@
         ]
     },
     "48": {
+        "id": 48,
         "nombre": "venonat",
         "altura": 10,
         "peso": 300,
@@ -409,6 +457,7 @@
         ]
     },
     "49": {
+        "id": 49,
         "nombre": "venomoth",
         "altura": 15,
         "peso": 125,
@@ -418,6 +467,7 @@
         ]
     },
     "50": {
+        "id": 50,
         "nombre": "diglett",
         "altura": 2,
         "peso": 8,
@@ -426,6 +476,7 @@
         ]
     },
     "51": {
+        "id": 51,
         "nombre": "dugtrio",
         "altura": 7,
         "peso": 333,
@@ -434,6 +485,7 @@
         ]
     },
     "52": {
+        "id": 52,
         "nombre": "meowth",
         "altura": 4,
         "peso": 42,
@@ -442,6 +494,7 @@
         ]
     },
     "53": {
+        "id": 53,
         "nombre": "persian",
         "altura": 10,
         "peso": 320,
@@ -450,6 +503,7 @@
         ]
     },
     "54": {
+        "id": 54,
         "nombre": "psyduck",
         "altura": 8,
         "peso": 196,
@@ -458,6 +512,7 @@
         ]
     },
     "55": {
+        "id": 55,
         "nombre": "golduck",
         "altura": 17,
         "peso": 766,
@@ -466,6 +521,7 @@
         ]
     },
     "56": {
+        "id": 56,
         "nombre": "mankey",
         "altura": 5,
         "peso": 280,
@@ -474,6 +530,7 @@
         ]
     },
     "57": {
+        "id": 57,
         "nombre": "primeape",
         "altura": 10,
         "peso": 320,
@@ -482,6 +539,7 @@
         ]
     },
     "58": {
+        "id": 58,
         "nombre": "growlithe",
         "altura": 7,
         "peso": 190,
@@ -490,6 +548,7 @@
         ]
     },
     "59": {
+        "id": 59,
         "nombre": "arcanine",
         "altura": 19,
         "peso": 1550,
@@ -498,6 +557,7 @@
         ]
     },
     "60": {
+        "id": 60,
         "nombre": "poliwag",
         "altura": 6,
         "peso": 124,
@@ -506,6 +566,7 @@
         ]
     },
     "61": {
+        "id": 61,
         "nombre": "poliwhirl",
         "altura": 10,
         "peso": 200,
@@ -514,6 +575,7 @@
         ]
     },
     "62": {
+        "id": 62,
         "nombre": "poliwrath",
         "altura": 13,
         "peso": 540,
@@ -523,6 +585,7 @@
         ]
     },
     "63": {
+        "id": 63,
         "nombre": "abra",
         "altura": 9,
         "peso": 195,
@@ -531,6 +594,7 @@
         ]
     },
     "64": {
+        "id": 64,
         "nombre": "kadabra",
         "altura": 13,
         "peso": 565,
@@ -539,6 +603,7 @@
         ]
     },
     "65": {
+        "id": 65,
         "nombre": "alakazam",
         "altura": 15,
         "peso": 480,
@@ -547,6 +612,7 @@
         ]
     },
     "66": {
+        "id": 66,
         "nombre": "machop",
         "altura": 8,
         "peso": 195,
@@ -555,6 +621,7 @@
         ]
     },
     "67": {
+        "id": 67,
         "nombre": "machoke",
         "altura": 15,
         "peso": 705,
@@ -563,6 +630,7 @@
         ]
     },
     "68": {
+        "id": 68,
         "nombre": "machamp",
         "altura": 16,
         "peso": 1300,
@@ -571,6 +639,7 @@
         ]
     },
     "69": {
+        "id": 69,
         "nombre": "bellsprout",
         "altura": 7,
         "peso": 40,
@@ -580,6 +649,7 @@
         ]
     },
     "70": {
+        "id": 70,
         "nombre": "weepinbell",
         "altura": 10,
         "peso": 64,
@@ -589,6 +659,7 @@
         ]
     },
     "71": {
+        "id": 71,
         "nombre": "victreebel",
         "altura": 17,
         "peso": 155,
@@ -598,6 +669,7 @@
         ]
     },
     "72": {
+        "id": 72,
         "nombre": "tentacool",
         "altura": 9,
         "peso": 455,
@@ -607,6 +679,7 @@
         ]
     },
     "73": {
+        "id": 73,
         "nombre": "tentacruel",
         "altura": 16,
         "peso": 550,
@@ -616,6 +689,7 @@
         ]
     },
     "74": {
+        "id": 74,
         "nombre": "geodude",
         "altura": 4,
         "peso": 200,
@@ -625,6 +699,7 @@
         ]
     },
     "75": {
+        "id": 75,
         "nombre": "graveler",
         "altura": 10,
         "peso": 1050,
@@ -634,6 +709,7 @@
         ]
     },
     "76": {
+        "id": 76,
         "nombre": "golem",
         "altura": 14,
         "peso": 3000,
@@ -643,6 +719,7 @@
         ]
     },
     "77": {
+        "id": 77,
         "nombre": "ponyta",
         "altura": 10,
         "peso": 300,
@@ -651,6 +728,7 @@
         ]
     },
     "78": {
+        "id": 78,
         "nombre": "rapidash",
         "altura": 17,
         "peso": 950,
@@ -659,6 +737,7 @@
         ]
     },
     "79": {
+        "id": 79,
         "nombre": "slowpoke",
         "altura": 12,
         "peso": 360,
@@ -668,6 +747,7 @@
         ]
     },
     "80": {
+        "id": 80,
         "nombre": "slowbro",
         "altura": 16,
         "peso": 785,
@@ -677,6 +757,7 @@
         ]
     },
     "81": {
+        "id": 81,
         "nombre": "magnemite",
         "altura": 3,
         "peso": 60,
@@ -686,6 +767,7 @@
         ]
     },
     "82": {
+        "id": 82,
         "nombre": "magneton",
         "altura": 10,
         "peso": 600,
@@ -695,6 +777,7 @@
         ]
     },
     "83": {
+        "id": 83,
         "nombre": "farfetchd",
         "altura": 8,
         "peso": 150,
@@ -704,6 +787,7 @@
         ]
     },
     "84": {
+        "id": 84,
         "nombre": "doduo",
         "altura": 14,
         "peso": 392,
@@ -713,6 +797,7 @@
         ]
     },
     "85": {
+        "id": 85,
         "nombre": "dodrio",
         "altura": 18,
         "peso": 852,
@@ -722,6 +807,7 @@
         ]
     },
     "86": {
+        "id": 86,
         "nombre": "seel",
         "altura": 11,
         "peso": 900,
@@ -730,6 +816,7 @@
         ]
     },
     "87": {
+        "id": 87,
         "nombre": "dewgong",
         "altura": 17,
         "peso": 1200,
@@ -739,6 +826,7 @@
         ]
     },
     "88": {
+        "id": 88,
         "nombre": "grimer",
         "altura": 9,
         "peso": 300,
@@ -747,6 +835,7 @@
         ]
     },
     "89": {
+        "id": 89,
         "nombre": "muk",
         "altura": 12,
         "peso": 300,
@@ -755,6 +844,7 @@
         ]
     },
     "90": {
+        "id": 90,
         "nombre": "shellder",
         "altura": 3,
         "peso": 40,
@@ -763,6 +853,7 @@
         ]
     },
     "91": {
+        "id": 91,
         "nombre": "cloyster",
         "altura": 15,
         "peso": 1325,
@@ -772,6 +863,7 @@
         ]
     },
     "92": {
+        "id": 92,
         "nombre": "gastly",
         "altura": 13,
         "peso": 1,
@@ -781,6 +873,7 @@
         ]
     },
     "93": {
+        "id": 93,
         "nombre": "haunter",
         "altura": 16,
         "peso": 1,
@@ -790,6 +883,7 @@
         ]
     },
     "94": {
+        "id": 94,
         "nombre": "gengar",
         "altura": 15,
         "peso": 405,
@@ -799,6 +893,7 @@
         ]
     },
     "95": {
+        "id": 95,
         "nombre": "onix",
         "altura": 88,
         "peso": 2100,
@@ -808,6 +903,7 @@
         ]
     },
     "96": {
+        "id": 96,
         "nombre": "drowzee",
         "altura": 10,
         "peso": 324,
@@ -816,6 +912,7 @@
         ]
     },
     "97": {
+        "id": 97,
         "nombre": "hypno",
         "altura": 16,
         "peso": 756,
@@ -824,6 +921,7 @@
         ]
     },
     "98": {
+        "id": 98,
         "nombre": "krabby",
         "altura": 4,
         "peso": 65,
@@ -832,6 +930,7 @@
         ]
     },
     "99": {
+        "id": 99,
         "nombre": "kingler",
         "altura": 13,
         "peso": 600,
@@ -840,6 +939,7 @@
         ]
     },
     "100": {
+        "id": 100,
         "nombre": "voltorb",
         "altura": 5,
         "peso": 104,
@@ -848,6 +948,7 @@
         ]
     },
     "101": {
+        "id": 101,
         "nombre": "electrode",
         "altura": 12,
         "peso": 666,
@@ -856,6 +957,7 @@
         ]
     },
     "102": {
+        "id": 102,
         "nombre": "exeggcute",
         "altura": 4,
         "peso": 25,
@@ -865,6 +967,7 @@
         ]
     },
     "103": {
+        "id": 103,
         "nombre": "exeggutor",
         "altura": 20,
         "peso": 1200,
@@ -874,6 +977,7 @@
         ]
     },
     "104": {
+        "id": 104,
         "nombre": "cubone",
         "altura": 4,
         "peso": 65,
@@ -882,6 +986,7 @@
         ]
     },
     "105": {
+        "id": 105,
         "nombre": "marowak",
         "altura": 10,
         "peso": 450,
@@ -890,6 +995,7 @@
         ]
     },
     "106": {
+        "id": 106,
         "nombre": "hitmonlee",
         "altura": 15,
         "peso": 498,
@@ -898,6 +1004,7 @@
         ]
     },
     "107": {
+        "id": 107,
         "nombre": "hitmonchan",
         "altura": 14,
         "peso": 502,
@@ -906,6 +1013,7 @@
         ]
     },
     "108": {
+        "id": 108,
         "nombre": "lickitung",
         "altura": 12,
         "peso": 655,
@@ -914,6 +1022,7 @@
         ]
     },
     "109": {
+        "id": 109,
         "nombre": "koffing",
         "altura": 6,
         "peso": 10,
@@ -922,6 +1031,7 @@
         ]
     },
     "110": {
+        "id": 110,
         "nombre": "weezing",
         "altura": 12,
         "peso": 95,
@@ -930,6 +1040,7 @@
         ]
     },
     "111": {
+        "id": 111,
         "nombre": "rhyhorn",
         "altura": 10,
         "peso": 1150,
@@ -939,6 +1050,7 @@
         ]
     },
     "112": {
+        "id": 112,
         "nombre": "rhydon",
         "altura": 19,
         "peso": 1200,
@@ -948,6 +1060,7 @@
         ]
     },
     "113": {
+        "id": 113,
         "nombre": "chansey",
         "altura": 11,
         "peso": 346,
@@ -956,6 +1069,7 @@
         ]
     },
     "114": {
+        "id": 114,
         "nombre": "tangela",
         "altura": 10,
         "peso": 350,
@@ -964,6 +1078,7 @@
         ]
     },
     "115": {
+        "id": 115,
         "nombre": "kangaskhan",
         "altura": 22,
         "peso": 800,
@@ -972,6 +1087,7 @@
         ]
     },
     "116": {
+        "id": 116,
         "nombre": "horsea",
         "altura": 4,
         "peso": 80,
@@ -980,6 +1096,7 @@
         ]
     },
     "117": {
+        "id": 117,
         "nombre": "seadra",
         "altura": 12,
         "peso": 250,
@@ -988,6 +1105,7 @@
         ]
     },
     "118": {
+        "id": 118,
         "nombre": "goldeen",
         "altura": 6,
         "peso": 150,
@@ -996,6 +1114,7 @@
         ]
     },
     "119": {
+        "id": 119,
         "nombre": "seaking",
         "altura": 13,
         "peso": 390,
@@ -1004,6 +1123,7 @@
         ]
     },
     "120": {
+        "id": 120,
         "nombre": "staryu",
         "altura": 8,
         "peso": 345,
@@ -1012,6 +1132,7 @@
         ]
     },
     "121": {
+        "id": 121,
         "nombre": "starmie",
         "altura": 11,
         "peso": 800,
@@ -1021,6 +1142,7 @@
         ]
     },
     "122": {
+        "id": 122,
         "nombre": "mr-mime",
         "altura": 13,
         "peso": 545,
@@ -1030,6 +1152,7 @@
         ]
     },
     "123": {
+        "id": 123,
         "nombre": "scyther",
         "altura": 15,
         "peso": 560,
@@ -1039,6 +1162,7 @@
         ]
     },
     "124": {
+        "id": 124,
         "nombre": "jynx",
         "altura": 14,
         "peso": 406,
@@ -1048,6 +1172,7 @@
         ]
     },
     "125": {
+        "id": 125,
         "nombre": "electabuzz",
         "altura": 11,
         "peso": 300,
@@ -1056,6 +1181,7 @@
         ]
     },
     "126": {
+        "id": 126,
         "nombre": "magmar",
         "altura": 13,
         "peso": 445,
@@ -1064,6 +1190,7 @@
         ]
     },
     "127": {
+        "id": 127,
         "nombre": "pinsir",
         "altura": 15,
         "peso": 550,
@@ -1072,6 +1199,7 @@
         ]
     },
     "128": {
+        "id": 128,
         "nombre": "tauros",
         "altura": 14,
         "peso": 884,
@@ -1080,6 +1208,7 @@
         ]
     },
     "129": {
+        "id": 129,
         "nombre": "magikarp",
         "altura": 9,
         "peso": 100,
@@ -1088,6 +1217,7 @@
         ]
     },
     "130": {
+        "id": 130,
         "nombre": "gyarados",
         "altura": 65,
         "peso": 2350,
@@ -1097,6 +1227,7 @@
         ]
     },
     "131": {
+        "id": 131,
         "nombre": "lapras",
         "altura": 25,
         "peso": 2200,
@@ -1106,6 +1237,7 @@
         ]
     },
     "132": {
+        "id": 132,
         "nombre": "ditto",
         "altura": 3,
         "peso": 40,
@@ -1114,6 +1246,7 @@
         ]
     },
     "133": {
+        "id": 133,
         "nombre": "eevee",
         "altura": 3,
         "peso": 65,
@@ -1122,6 +1255,7 @@
         ]
     },
     "134": {
+        "id": 134,
         "nombre": "vaporeon",
         "altura": 10,
         "peso": 290,
@@ -1130,6 +1264,7 @@
         ]
     },
     "135": {
+        "id": 135,
         "nombre": "jolteon",
         "altura": 8,
         "peso": 245,
@@ -1138,6 +1273,7 @@
         ]
     },
     "136": {
+        "id": 136,
         "nombre": "flareon",
         "altura": 9,
         "peso": 250,
@@ -1146,6 +1282,7 @@
         ]
     },
     "137": {
+        "id": 137,
         "nombre": "porygon",
         "altura": 8,
         "peso": 365,
@@ -1154,6 +1291,7 @@
         ]
     },
     "138": {
+        "id": 138,
         "nombre": "omanyte",
         "altura": 4,
         "peso": 75,
@@ -1163,6 +1301,7 @@
         ]
     },
     "139": {
+        "id": 139,
         "nombre": "omastar",
         "altura": 10,
         "peso": 350,
@@ -1172,6 +1311,7 @@
         ]
     },
     "140": {
+        "id": 140,
         "nombre": "kabuto",
         "altura": 5,
         "peso": 115,
@@ -1181,6 +1321,7 @@
         ]
     },
     "141": {
+        "id": 141,
         "nombre": "kabutops",
         "altura": 13,
         "peso": 405,
@@ -1190,6 +1331,7 @@
         ]
     },
     "142": {
+        "id": 142,
         "nombre": "aerodactyl",
         "altura": 18,
         "peso": 590,
@@ -1199,6 +1341,7 @@
         ]
     },
     "143": {
+        "id": 143,
         "nombre": "snorlax",
         "altura": 21,
         "peso": 4600,
@@ -1207,6 +1350,7 @@
         ]
     },
     "144": {
+        "id": 144,
         "nombre": "articuno",
         "altura": 17,
         "peso": 554,
@@ -1216,6 +1360,7 @@
         ]
     },
     "145": {
+        "id": 145,
         "nombre": "zapdos",
         "altura": 16,
         "peso": 526,
@@ -1225,6 +1370,7 @@
         ]
     },
     "146": {
+        "id": 146,
         "nombre": "moltres",
         "altura": 20,
         "peso": 600,
@@ -1234,6 +1380,7 @@
         ]
     },
     "147": {
+        "id": 147,
         "nombre": "dratini",
         "altura": 18,
         "peso": 33,
@@ -1242,6 +1389,7 @@
         ]
     },
     "148": {
+        "id": 148,
         "nombre": "dragonair",
         "altura": 40,
         "peso": 165,
@@ -1250,6 +1398,7 @@
         ]
     },
     "149": {
+        "id": 149,
         "nombre": "dragonite",
         "altura": 22,
         "peso": 2100,
@@ -1259,6 +1408,7 @@
         ]
     },
     "150": {
+        "id": 150,
         "nombre": "mewtwo",
         "altura": 20,
         "peso": 1220,
@@ -1267,6 +1417,7 @@
         ]
     },
     "151": {
+        "id": 151,
         "nombre": "mew",
         "altura": 4,
         "peso": 40,
