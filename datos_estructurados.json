@@ -1,6 +1,6 @@
 {
-    "bulbasaur": {
-        "id": 1,
+    "1": {
+        "nombre": "bulbasaur",
         "altura": 7,
         "peso": 69,
         "tipo_pokemon": [
@@ -8,8 +8,8 @@
             "poison"
         ]
     },
-    "ivysaur": {
-        "id": 2,
+    "2": {
+        "nombre": "ivysaur",
         "altura": 10,
         "peso": 130,
         "tipo_pokemon": [
@@ -17,8 +17,8 @@
             "poison"
         ]
     },
-    "venusaur": {
-        "id": 3,
+    "3": {
+        "nombre": "venusaur",
         "altura": 20,
         "peso": 1000,
         "tipo_pokemon": [
@@ -26,24 +26,24 @@
             "poison"
         ]
     },
-    "charmander": {
-        "id": 4,
+    "4": {
+        "nombre": "charmander",
         "altura": 6,
         "peso": 85,
         "tipo_pokemon": [
             "fire"
         ]
     },
-    "charmeleon": {
-        "id": 5,
+    "5": {
+        "nombre": "charmeleon",
         "altura": 11,
         "peso": 190,
         "tipo_pokemon": [
             "fire"
         ]
     },
-    "charizard": {
-        "id": 6,
+    "6": {
+        "nombre": "charizard",
         "altura": 17,
         "peso": 905,
         "tipo_pokemon": [
@@ -51,48 +51,48 @@
             "flying"
         ]
     },
-    "squirtle": {
-        "id": 7,
+    "7": {
+        "nombre": "squirtle",
         "altura": 5,
         "peso": 90,
         "tipo_pokemon": [
             "water"
         ]
     },
-    "wartortle": {
-        "id": 8,
+    "8": {
+        "nombre": "wartortle",
         "altura": 10,
         "peso": 225,
         "tipo_pokemon": [
             "water"
         ]
     },
-    "blastoise": {
-        "id": 9,
+    "9": {
+        "nombre": "blastoise",
         "altura": 16,
         "peso": 855,
         "tipo_pokemon": [
             "water"
         ]
     },
-    "caterpie": {
-        "id": 10,
+    "10": {
+        "nombre": "caterpie",
         "altura": 3,
         "peso": 29,
         "tipo_pokemon": [
             "bug"
         ]
     },
-    "metapod": {
-        "id": 11,
+    "11": {
+        "nombre": "metapod",
         "altura": 7,
         "peso": 99,
         "tipo_pokemon": [
             "bug"
         ]
     },
-    "butterfree": {
-        "id": 12,
+    "12": {
+        "nombre": "butterfree",
         "altura": 11,
         "peso": 320,
         "tipo_pokemon": [
@@ -100,8 +100,8 @@
             "flying"
         ]
     },
-    "weedle": {
-        "id": 13,
+    "13": {
+        "nombre": "weedle",
         "altura": 3,
         "peso": 32,
         "tipo_pokemon": [
@@ -109,8 +109,8 @@
             "poison"
         ]
     },
-    "kakuna": {
-        "id": 14,
+    "14": {
+        "nombre": "kakuna",
         "altura": 6,
         "peso": 100,
         "tipo_pokemon": [
@@ -118,8 +118,8 @@
             "poison"
         ]
     },
-    "beedrill": {
-        "id": 15,
+    "15": {
+        "nombre": "beedrill",
         "altura": 10,
         "peso": 295,
         "tipo_pokemon": [
@@ -127,8 +127,8 @@
             "poison"
         ]
     },
-    "pidgey": {
-        "id": 16,
+    "16": {
+        "nombre": "pidgey",
         "altura": 3,
         "peso": 18,
         "tipo_pokemon": [
@@ -136,8 +136,8 @@
             "flying"
         ]
     },
-    "pidgeotto": {
-        "id": 17,
+    "17": {
+        "nombre": "pidgeotto",
         "altura": 11,
         "peso": 300,
         "tipo_pokemon": [
@@ -145,8 +145,8 @@
             "flying"
         ]
     },
-    "pidgeot": {
-        "id": 18,
+    "18": {
+        "nombre": "pidgeot",
         "altura": 15,
         "peso": 395,
         "tipo_pokemon": [
@@ -154,24 +154,24 @@
             "flying"
         ]
     },
-    "rattata": {
-        "id": 19,
+    "19": {
+        "nombre": "rattata",
         "altura": 3,
         "peso": 35,
         "tipo_pokemon": [
             "normal"
         ]
     },
-    "raticate": {
-        "id": 20,
+    "20": {
+        "nombre": "raticate",
         "altura": 7,
         "peso": 185,
         "tipo_pokemon": [
             "normal"
         ]
     },
-    "spearow": {
-        "id": 21,
+    "21": {
+        "nombre": "spearow",
         "altura": 3,
         "peso": 20,
         "tipo_pokemon": [
@@ -179,8 +179,8 @@
             "flying"
         ]
     },
-    "fearow": {
-        "id": 22,
+    "22": {
+        "nombre": "fearow",
         "altura": 12,
         "peso": 380,
         "tipo_pokemon": [
@@ -188,72 +188,72 @@
             "flying"
         ]
     },
-    "ekans": {
-        "id": 23,
+    "23": {
+        "nombre": "ekans",
         "altura": 20,
         "peso": 69,
         "tipo_pokemon": [
             "poison"
         ]
     },
-    "arbok": {
-        "id": 24,
+    "24": {
+        "nombre": "arbok",
         "altura": 35,
         "peso": 650,
         "tipo_pokemon": [
             "poison"
         ]
     },
-    "pikachu": {
-        "id": 25,
+    "25": {
+        "nombre": "pikachu",
         "altura": 4,
         "peso": 60,
         "tipo_pokemon": [
             "electric"
         ]
     },
-    "raichu": {
-        "id": 26,
+    "26": {
+        "nombre": "raichu",
         "altura": 8,
         "peso": 300,
         "tipo_pokemon": [
             "electric"
         ]
     },
-    "sandshrew": {
-        "id": 27,
+    "27": {
+        "nombre": "sandshrew",
         "altura": 6,
         "peso": 120,
         "tipo_pokemon": [
             "ground"
         ]
     },
-    "sandslash": {
-        "id": 28,
+    "28": {
+        "nombre": "sandslash",
         "altura": 10,
         "peso": 295,
         "tipo_pokemon": [
             "ground"
         ]
     },
-    "nidoran-f": {
-        "id": 29,
+    "29": {
+        "nombre": "nidoran-f",
         "altura": 4,
         "peso": 70,
         "tipo_pokemon": [
             "poison"
         ]
     },
-    "nidorina": {
-        "id": 30,
+    "30": {
+        "nombre": "nidorina",
         "altura": 8,
         "peso": 200,
         "tipo_pokemon": [
             "poison"
         ]
     },
-    "nidoqueen": {
-        "id": 31,
+    "31": {
+        "nombre": "nidoqueen",
         "altura": 13,
         "peso": 600,
         "tipo_pokemon": [
@@ -261,24 +261,24 @@
             "ground"
         ]
     },
-    "nidoran-m": {
-        "id": 32,
+    "32": {
+        "nombre": "nidoran-m",
         "altura": 5,
         "peso": 90,
         "tipo_pokemon": [
             "poison"
         ]
     },
-    "nidorino": {
-        "id": 33,
+    "33": {
+        "nombre": "nidorino",
         "altura": 9,
         "peso": 195,
         "tipo_pokemon": [
             "poison"
         ]
     },
-    "nidoking": {
-        "id": 34,
+    "34": {
+        "nombre": "nidoking",
         "altura": 14,
         "peso": 620,
         "tipo_pokemon": [
@@ -286,40 +286,40 @@
             "ground"
         ]
     },
-    "clefairy": {
-        "id": 35,
+    "35": {
+        "nombre": "clefairy",
         "altura": 6,
         "peso": 75,
         "tipo_pokemon": [
             "fairy"
         ]
     },
-    "clefable": {
-        "id": 36,
+    "36": {
+        "nombre": "clefable",
         "altura": 13,
         "peso": 400,
         "tipo_pokemon": [
             "fairy"
         ]
     },
-    "vulpix": {
-        "id": 37,
+    "37": {
+        "nombre": "vulpix",
         "altura": 6,
         "peso": 99,
         "tipo_pokemon": [
             "fire"
         ]
     },
-    "ninetales": {
-        "id": 38,
+    "38": {
+        "nombre": "ninetales",
         "altura": 11,
         "peso": 199,
         "tipo_pokemon": [
             "fire"
         ]
     },
-    "jigglypuff": {
-        "id": 39,
+    "39": {
+        "nombre": "jigglypuff",
         "altura": 5,
         "peso": 55,
         "tipo_pokemon": [
@@ -327,8 +327,8 @@
             "fairy"
         ]
     },
-    "wigglytuff": {
-        "id": 40,
+    "40": {
+        "nombre": "wigglytuff",
         "altura": 10,
         "peso": 120,
         "tipo_pokemon": [
@@ -336,8 +336,8 @@
             "fairy"
         ]
     },
-    "zubat": {
-        "id": 41,
+    "41": {
+        "nombre": "zubat",
         "altura": 8,
         "peso": 75,
         "tipo_pokemon": [
@@ -345,8 +345,8 @@
             "flying"
         ]
     },
-    "golbat": {
-        "id": 42,
+    "42": {
+        "nombre": "golbat",
         "altura": 16,
         "peso": 550,
         "tipo_pokemon": [
@@ -354,8 +354,8 @@
             "flying"
         ]
     },
-    "oddish": {
-        "id": 43,
+    "43": {
+        "nombre": "oddish",
         "altura": 5,
         "peso": 54,
         "tipo_pokemon": [
@@ -363,8 +363,8 @@
             "poison"
         ]
     },
-    "gloom": {
-        "id": 44,
+    "44": {
+        "nombre": "gloom",
         "altura": 8,
         "peso": 86,
         "tipo_pokemon": [
@@ -372,8 +372,8 @@
             "poison"
         ]
     },
-    "vileplume": {
-        "id": 45,
+    "45": {
+        "nombre": "vileplume",
         "altura": 12,
         "peso": 186,
         "tipo_pokemon": [
@@ -381,8 +381,8 @@
             "poison"
         ]
     },
-    "paras": {
-        "id": 46,
+    "46": {
+        "nombre": "paras",
         "altura": 3,
         "peso": 54,
         "tipo_pokemon": [
@@ -390,8 +390,8 @@
             "grass"
         ]
     },
-    "parasect": {
-        "id": 47,
+    "47": {
+        "nombre": "parasect",
         "altura": 10,
         "peso": 295,
         "tipo_pokemon": [
@@ -399,8 +399,8 @@
             "grass"
         ]
     },
-    "venonat": {
-        "id": 48,
+    "48": {
+        "nombre": "venonat",
         "altura": 10,
         "peso": 300,
         "tipo_pokemon": [
@@ -408,8 +408,8 @@
             "poison"
         ]
     },
-    "venomoth": {
-        "id": 49,
+    "49": {
+        "nombre": "venomoth",
         "altura": 15,
         "peso": 125,
         "tipo_pokemon": [
@@ -417,104 +417,104 @@
             "poison"
         ]
     },
-    "diglett": {
-        "id": 50,
+    "50": {
+        "nombre": "diglett",
         "altura": 2,
         "peso": 8,
         "tipo_pokemon": [
             "ground"
         ]
     },
-    "dugtrio": {
-        "id": 51,
+    "51": {
+        "nombre": "dugtrio",
         "altura": 7,
         "peso": 333,
         "tipo_pokemon": [
             "ground"
         ]
     },
-    "meowth": {
-        "id": 52,
+    "52": {
+        "nombre": "meowth",
         "altura": 4,
         "peso": 42,
         "tipo_pokemon": [
             "normal"
         ]
     },
-    "persian": {
-        "id": 53,
+    "53": {
+        "nombre": "persian",
         "altura": 10,
         "peso": 320,
         "tipo_pokemon": [
             "normal"
         ]
     },
-    "psyduck": {
-        "id": 54,
+    "54": {
+        "nombre": "psyduck",
         "altura": 8,
         "peso": 196,
         "tipo_pokemon": [
             "water"
         ]
     },
-    "golduck": {
-        "id": 55,
+    "55": {
+        "nombre": "golduck",
         "altura": 17,
         "peso": 766,
         "tipo_pokemon": [
             "water"
         ]
     },
-    "mankey": {
-        "id": 56,
+    "56": {
+        "nombre": "mankey",
         "altura": 5,
         "peso": 280,
         "tipo_pokemon": [
             "fighting"
         ]
     },
-    "primeape": {
-        "id": 57,
+    "57": {
+        "nombre": "primeape",
         "altura": 10,
         "peso": 320,
         "tipo_pokemon": [
             "fighting"
         ]
     },
-    "growlithe": {
-        "id": 58,
+    "58": {
+        "nombre": "growlithe",
         "altura": 7,
         "peso": 190,
         "tipo_pokemon": [
             "fire"
         ]
     },
-    "arcanine": {
-        "id": 59,
+    "59": {
+        "nombre": "arcanine",
         "altura": 19,
         "peso": 1550,
         "tipo_pokemon": [
             "fire"
         ]
     },
-    "poliwag": {
-        "id": 60,
+    "60": {
+        "nombre": "poliwag",
         "altura": 6,
         "peso": 124,
         "tipo_pokemon": [
             "water"
         ]
     },
-    "poliwhirl": {
-        "id": 61,
+    "61": {
+        "nombre": "poliwhirl",
         "altura": 10,
         "peso": 200,
         "tipo_pokemon": [
             "water"
         ]
     },
-    "poliwrath": {
-        "id": 62,
+    "62": {
+        "nombre": "poliwrath",
         "altura": 13,
         "peso": 540,
         "tipo_pokemon": [
@@ -522,56 +522,56 @@
             "fighting"
         ]
     },
-    "abra": {
-        "id": 63,
+    "63": {
+        "nombre": "abra",
         "altura": 9,
         "peso": 195,
         "tipo_pokemon": [
             "psychic"
         ]
     },
-    "kadabra": {
-        "id": 64,
+    "64": {
+        "nombre": "kadabra",
         "altura": 13,
         "peso": 565,
         "tipo_pokemon": [
             "psychic"
         ]
     },
-    "alakazam": {
-        "id": 65,
+    "65": {
+        "nombre": "alakazam",
         "altura": 15,
         "peso": 480,
         "tipo_pokemon": [
             "psychic"
         ]
     },
-    "machop": {
-        "id": 66,
+    "66": {
+        "nombre": "machop",
         "altura": 8,
         "peso": 195,
         "tipo_pokemon": [
             "fighting"
         ]
     },
-    "machoke": {
-        "id": 67,
+    "67": {
+        "nombre": "machoke",
         "altura": 15,
         "peso": 705,
         "tipo_pokemon": [
             "fighting"
         ]
     },
-    "machamp": {
-        "id": 68,
+    "68": {
+        "nombre": "machamp",
         "altura": 16,
         "peso": 1300,
         "tipo_pokemon": [
             "fighting"
         ]
     },
-    "bellsprout": {
-        "id": 69,
+    "69": {
+        "nombre": "bellsprout",
         "altura": 7,
         "peso": 40,
         "tipo_pokemon": [
@@ -579,8 +579,8 @@
             "poison"
         ]
     },
-    "weepinbell": {
-        "id": 70,
+    "70": {
+        "nombre": "weepinbell",
         "altura": 10,
         "peso": 64,
         "tipo_pokemon": [
@@ -588,8 +588,8 @@
             "poison"
         ]
     },
-    "victreebel": {
-        "id": 71,
+    "71": {
+        "nombre": "victreebel",
         "altura": 17,
         "peso": 155,
         "tipo_pokemon": [
@@ -597,8 +597,8 @@
             "poison"
         ]
     },
-    "tentacool": {
-        "id": 72,
+    "72": {
+        "nombre": "tentacool",
         "altura": 9,
         "peso": 455,
         "tipo_pokemon": [
@@ -606,8 +606,8 @@
             "poison"
         ]
     },
-    "tentacruel": {
-        "id": 73,
+    "73": {
+        "nombre": "tentacruel",
         "altura": 16,
         "peso": 550,
         "tipo_pokemon": [
@@ -615,8 +615,8 @@
             "poison"
         ]
     },
-    "geodude": {
-        "id": 74,
+    "74": {
+        "nombre": "geodude",
         "altura": 4,
         "peso": 200,
         "tipo_pokemon": [
@@ -624,8 +624,8 @@
             "ground"
         ]
     },
-    "graveler": {
-        "id": 75,
+    "75": {
+        "nombre": "graveler",
         "altura": 10,
         "peso": 1050,
         "tipo_pokemon": [
@@ -633,8 +633,8 @@
             "ground"
         ]
     },
-    "golem": {
-        "id": 76,
+    "76": {
+        "nombre": "golem",
         "altura": 14,
         "peso": 3000,
         "tipo_pokemon": [
@@ -642,24 +642,24 @@
             "ground"
         ]
     },
-    "ponyta": {
-        "id": 77,
+    "77": {
+        "nombre": "ponyta",
         "altura": 10,
         "peso": 300,
         "tipo_pokemon": [
             "fire"
         ]
     },
-    "rapidash": {
-        "id": 78,
+    "78": {
+        "nombre": "rapidash",
         "altura": 17,
         "peso": 950,
         "tipo_pokemon": [
             "fire"
         ]
     },
-    "slowpoke": {
-        "id": 79,
+    "79": {
+        "nombre": "slowpoke",
         "altura": 12,
         "peso": 360,
         "tipo_pokemon": [
@@ -667,8 +667,8 @@
             "psychic"
         ]
     },
-    "slowbro": {
-        "id": 80,
+    "80": {
+        "nombre": "slowbro",
         "altura": 16,
         "peso": 785,
         "tipo_pokemon": [
@@ -676,8 +676,8 @@
             "psychic"
         ]
     },
-    "magnemite": {
-        "id": 81,
+    "81": {
+        "nombre": "magnemite",
         "altura": 3,
         "peso": 60,
         "tipo_pokemon": [
@@ -685,8 +685,8 @@
             "steel"
         ]
     },
-    "magneton": {
-        "id": 82,
+    "82": {
+        "nombre": "magneton",
         "altura": 10,
         "peso": 600,
         "tipo_pokemon": [
@@ -694,8 +694,8 @@
             "steel"
         ]
     },
-    "farfetchd": {
-        "id": 83,
+    "83": {
+        "nombre": "farfetchd",
         "altura": 8,
         "peso": 150,
         "tipo_pokemon": [
@@ -703,8 +703,8 @@
             "flying"
         ]
     },
-    "doduo": {
-        "id": 84,
+    "84": {
+        "nombre": "doduo",
         "altura": 14,
         "peso": 392,
         "tipo_pokemon": [
@@ -712,8 +712,8 @@
             "flying"
         ]
     },
-    "dodrio": {
-        "id": 85,
+    "85": {
+        "nombre": "dodrio",
         "altura": 18,
         "peso": 852,
         "tipo_pokemon": [
@@ -721,16 +721,16 @@
             "flying"
         ]
     },
-    "seel": {
-        "id": 86,
+    "86": {
+        "nombre": "seel",
         "altura": 11,
         "peso": 900,
         "tipo_pokemon": [
             "water"
         ]
     },
-    "dewgong": {
-        "id": 87,
+    "87": {
+        "nombre": "dewgong",
         "altura": 17,
         "peso": 1200,
         "tipo_pokemon": [
@@ -738,32 +738,32 @@
             "ice"
         ]
     },
-    "grimer": {
-        "id": 88,
+    "88": {
+        "nombre": "grimer",
         "altura": 9,
         "peso": 300,
         "tipo_pokemon": [
             "poison"
         ]
     },
-    "muk": {
-        "id": 89,
+    "89": {
+        "nombre": "muk",
         "altura": 12,
         "peso": 300,
         "tipo_pokemon": [
             "poison"
         ]
     },
-    "shellder": {
-        "id": 90,
+    "90": {
+        "nombre": "shellder",
         "altura": 3,
         "peso": 40,
         "tipo_pokemon": [
             "water"
         ]
     },
-    "cloyster": {
-        "id": 91,
+    "91": {
+        "nombre": "cloyster",
         "altura": 15,
         "peso": 1325,
         "tipo_pokemon": [
@@ -771,8 +771,8 @@
             "ice"
         ]
     },
-    "gastly": {
-        "id": 92,
+    "92": {
+        "nombre": "gastly",
         "altura": 13,
         "peso": 1,
         "tipo_pokemon": [
@@ -780,8 +780,8 @@
             "poison"
         ]
     },
-    "haunter": {
-        "id": 93,
+    "93": {
+        "nombre": "haunter",
         "altura": 16,
         "peso": 1,
         "tipo_pokemon": [
@@ -789,8 +789,8 @@
             "poison"
         ]
     },
-    "gengar": {
-        "id": 94,
+    "94": {
+        "nombre": "gengar",
         "altura": 15,
         "peso": 405,
         "tipo_pokemon": [
@@ -798,8 +798,8 @@
             "poison"
         ]
     },
-    "onix": {
-        "id": 95,
+    "95": {
+        "nombre": "onix",
         "altura": 88,
         "peso": 2100,
         "tipo_pokemon": [
@@ -807,56 +807,56 @@
             "ground"
         ]
     },
-    "drowzee": {
-        "id": 96,
+    "96": {
+        "nombre": "drowzee",
         "altura": 10,
         "peso": 324,
         "tipo_pokemon": [
             "psychic"
         ]
     },
-    "hypno": {
-        "id": 97,
+    "97": {
+        "nombre": "hypno",
         "altura": 16,
         "peso": 756,
         "tipo_pokemon": [
             "psychic"
         ]
     },
-    "krabby": {
-        "id": 98,
+    "98": {
+        "nombre": "krabby",
         "altura": 4,
         "peso": 65,
         "tipo_pokemon": [
             "water"
         ]
     },
-    "kingler": {
-        "id": 99,
+    "99": {
+        "nombre": "kingler",
         "altura": 13,
         "peso": 600,
         "tipo_pokemon": [
             "water"
         ]
     },
-    "voltorb": {
-        "id": 100,
+    "100": {
+        "nombre": "voltorb",
         "altura": 5,
         "peso": 104,
         "tipo_pokemon": [
             "electric"
         ]
     },
-    "electrode": {
-        "id": 101,
+    "101": {
+        "nombre": "electrode",
         "altura": 12,
         "peso": 666,
         "tipo_pokemon": [
             "electric"
         ]
     },
-    "exeggcute": {
-        "id": 102,
+    "102": {
+        "nombre": "exeggcute",
         "altura": 4,
         "peso": 25,
         "tipo_pokemon": [
@@ -864,8 +864,8 @@
             "psychic"
         ]
     },
-    "exeggutor": {
-        "id": 103,
+    "103": {
+        "nombre": "exeggutor",
         "altura": 20,
         "peso": 1200,
         "tipo_pokemon": [
@@ -873,64 +873,64 @@
             "psychic"
         ]
     },
-    "cubone": {
-        "id": 104,
+    "104": {
+        "nombre": "cubone",
         "altura": 4,
         "peso": 65,
         "tipo_pokemon": [
             "ground"
         ]
     },
-    "marowak": {
-        "id": 105,
+    "105": {
+        "nombre": "marowak",
         "altura": 10,
         "peso": 450,
         "tipo_pokemon": [
             "ground"
         ]
     },
-    "hitmonlee": {
-        "id": 106,
+    "106": {
+        "nombre": "hitmonlee",
         "altura": 15,
         "peso": 498,
         "tipo_pokemon": [
             "fighting"
         ]
     },
-    "hitmonchan": {
-        "id": 107,
+    "107": {
+        "nombre": "hitmonchan",
         "altura": 14,
         "peso": 502,
         "tipo_pokemon": [
             "fighting"
         ]
     },
-    "lickitung": {
-        "id": 108,
+    "108": {
+        "nombre": "lickitung",
         "altura": 12,
         "peso": 655,
         "tipo_pokemon": [
             "normal"
         ]
     },
-    "koffing": {
-        "id": 109,
+    "109": {
+        "nombre": "koffing",
         "altura": 6,
         "peso": 10,
         "tipo_pokemon": [
             "poison"
         ]
     },
-    "weezing": {
-        "id": 110,
+    "110": {
+        "nombre": "weezing",
         "altura": 12,
         "peso": 95,
         "tipo_pokemon": [
             "poison"
         ]
     },
-    "rhyhorn": {
-        "id": 111,
+    "111": {
+        "nombre": "rhyhorn",
         "altura": 10,
         "peso": 1150,
         "tipo_pokemon": [
@@ -938,8 +938,8 @@
             "rock"
         ]
     },
-    "rhydon": {
-        "id": 112,
+    "112": {
+        "nombre": "rhydon",
         "altura": 19,
         "peso": 1200,
         "tipo_pokemon": [
@@ -947,72 +947,72 @@
             "rock"
         ]
     },
-    "chansey": {
-        "id": 113,
+    "113": {
+        "nombre": "chansey",
         "altura": 11,
         "peso": 346,
         "tipo_pokemon": [
             "normal"
         ]
     },
-    "tangela": {
-        "id": 114,
+    "114": {
+        "nombre": "tangela",
         "altura": 10,
         "peso": 350,
         "tipo_pokemon": [
             "grass"
         ]
     },
-    "kangaskhan": {
-        "id": 115,
+    "115": {
+        "nombre": "kangaskhan",
         "altura": 22,
         "peso": 800,
         "tipo_pokemon": [
             "normal"
         ]
     },
-    "horsea": {
-        "id": 116,
+    "116": {
+        "nombre": "horsea",
         "altura": 4,
         "peso": 80,
         "tipo_pokemon": [
             "water"
         ]
     },
-    "seadra": {
-        "id": 117,
+    "117": {
+        "nombre": "seadra",
         "altura": 12,
         "peso": 250,
         "tipo_pokemon": [
             "water"
         ]
     },
-    "goldeen": {
-        "id": 118,
+    "118": {
+        "nombre": "goldeen",
         "altura": 6,
         "peso": 150,
         "tipo_pokemon": [
             "water"
         ]
     },
-    "seaking": {
-        "id": 119,
+    "119": {
+        "nombre": "seaking",
         "altura": 13,
         "peso": 390,
         "tipo_pokemon": [
             "water"
         ]
     },
-    "staryu": {
-        "id": 120,
+    "120": {
+        "nombre": "staryu",
         "altura": 8,
         "peso": 345,
         "tipo_pokemon": [
             "water"
         ]
     },
-    "starmie": {
-        "id": 121,
+    "121": {
+        "nombre": "starmie",
         "altura": 11,
         "peso": 800,
         "tipo_pokemon": [
@@ -1020,8 +1020,8 @@
             "psychic"
         ]
     },
-    "mr-mime": {
-        "id": 122,
+    "122": {
+        "nombre": "mr-mime",
         "altura": 13,
         "peso": 545,
         "tipo_pokemon": [
@@ -1029,8 +1029,8 @@
             "fairy"
         ]
     },
-    "scyther": {
-        "id": 123,
+    "123": {
+        "nombre": "scyther",
         "altura": 15,
         "peso": 560,
         "tipo_pokemon": [
@@ -1038,8 +1038,8 @@
             "flying"
         ]
     },
-    "jynx": {
-        "id": 124,
+    "124": {
+        "nombre": "jynx",
         "altura": 14,
         "peso": 406,
         "tipo_pokemon": [
@@ -1047,48 +1047,48 @@
             "psychic"
         ]
     },
-    "electabuzz": {
-        "id": 125,
+    "125": {
+        "nombre": "electabuzz",
         "altura": 11,
         "peso": 300,
         "tipo_pokemon": [
             "electric"
         ]
     },
-    "magmar": {
-        "id": 126,
+    "126": {
+        "nombre": "magmar",
         "altura": 13,
         "peso": 445,
         "tipo_pokemon": [
             "fire"
         ]
     },
-    "pinsir": {
-        "id": 127,
+    "127": {
+        "nombre": "pinsir",
         "altura": 15,
         "peso": 550,
         "tipo_pokemon": [
             "bug"
         ]
     },
-    "tauros": {
-        "id": 128,
+    "128": {
+        "nombre": "tauros",
         "altura": 14,
         "peso": 884,
         "tipo_pokemon": [
             "normal"
         ]
     },
-    "magikarp": {
-        "id": 129,
+    "129": {
+        "nombre": "magikarp",
         "altura": 9,
         "peso": 100,
         "tipo_pokemon": [
             "water"
         ]
     },
-    "gyarados": {
-        "id": 130,
+    "130": {
+        "nombre": "gyarados",
         "altura": 65,
         "peso": 2350,
         "tipo_pokemon": [
@@ -1096,8 +1096,8 @@
             "flying"
         ]
     },
-    "lapras": {
-        "id": 131,
+    "131": {
+        "nombre": "lapras",
         "altura": 25,
         "peso": 2200,
         "tipo_pokemon": [
@@ -1105,56 +1105,56 @@
             "ice"
         ]
     },
-    "ditto": {
-        "id": 132,
+    "132": {
+        "nombre": "ditto",
         "altura": 3,
         "peso": 40,
         "tipo_pokemon": [
             "normal"
         ]
     },
-    "eevee": {
-        "id": 133,
+    "133": {
+        "nombre": "eevee",
         "altura": 3,
         "peso": 65,
         "tipo_pokemon": [
             "normal"
         ]
     },
-    "vaporeon": {
-        "id": 134,
+    "134": {
+        "nombre": "vaporeon",
         "altura": 10,
         "peso": 290,
         "tipo_pokemon": [
             "water"
         ]
     },
-    "jolteon": {
-        "id": 135,
+    "135": {
+        "nombre": "jolteon",
         "altura": 8,
         "peso": 245,
         "tipo_pokemon": [
             "electric"
         ]
     },
-    "flareon": {
-        "id": 136,
+    "136": {
+        "nombre": "flareon",
         "altura": 9,
         "peso": 250,
         "tipo_pokemon": [
             "fire"
         ]
     },
-    "porygon": {
-        "id": 137,
+    "137": {
+        "nombre": "porygon",
         "altura": 8,
         "peso": 365,
         "tipo_pokemon": [
             "normal"
         ]
     },
-    "omanyte": {
-        "id": 138,
+    "138": {
+        "nombre": "omanyte",
         "altura": 4,
         "peso": 75,
         "tipo_pokemon": [
@@ -1162,8 +1162,8 @@
             "water"
         ]
     },
-    "omastar": {
-        "id": 139,
+    "139": {
+        "nombre": "omastar",
         "altura": 10,
         "peso": 350,
         "tipo_pokemon": [
@@ -1171,8 +1171,8 @@
             "water"
         ]
     },
-    "kabuto": {
-        "id": 140,
+    "140": {
+        "nombre": "kabuto",
         "altura": 5,
         "peso": 115,
         "tipo_pokemon": [
@@ -1180,8 +1180,8 @@
             "water"
         ]
     },
-    "kabutops": {
-        "id": 141,
+    "141": {
+        "nombre": "kabutops",
         "altura": 13,
         "peso": 405,
         "tipo_pokemon": [
@@ -1189,8 +1189,8 @@
             "water"
         ]
     },
-    "aerodactyl": {
-        "id": 142,
+    "142": {
+        "nombre": "aerodactyl",
         "altura": 18,
         "peso": 590,
         "tipo_pokemon": [
@@ -1198,16 +1198,16 @@
             "flying"
         ]
     },
-    "snorlax": {
-        "id": 143,
+    "143": {
+        "nombre": "snorlax",
         "altura": 21,
         "peso": 4600,
         "tipo_pokemon": [
             "normal"
         ]
     },
-    "articuno": {
-        "id": 144,
+    "144": {
+        "nombre": "articuno",
         "altura": 17,
         "peso": 554,
         "tipo_pokemon": [
@@ -1215,8 +1215,8 @@
             "flying"
         ]
     },
-    "zapdos": {
-        "id": 145,
+    "145": {
+        "nombre": "zapdos",
         "altura": 16,
         "peso": 526,
         "tipo_pokemon": [
@@ -1224,8 +1224,8 @@
             "flying"
         ]
     },
-    "moltres": {
-        "id": 146,
+    "146": {
+        "nombre": "moltres",
         "altura": 20,
         "peso": 600,
         "tipo_pokemon": [
@@ -1233,24 +1233,24 @@
             "flying"
         ]
     },
-    "dratini": {
-        "id": 147,
+    "147": {
+        "nombre": "dratini",
         "altura": 18,
         "peso": 33,
         "tipo_pokemon": [
             "dragon"
         ]
     },
-    "dragonair": {
-        "id": 148,
+    "148": {
+        "nombre": "dragonair",
         "altura": 40,
         "peso": 165,
         "tipo_pokemon": [
             "dragon"
         ]
     },
-    "dragonite": {
-        "id": 149,
+    "149": {
+        "nombre": "dragonite",
         "altura": 22,
         "peso": 2100,
         "tipo_pokemon": [
@@ -1258,16 +1258,16 @@
             "flying"
         ]
     },
-    "mewtwo": {
-        "id": 150,
+    "150": {
+        "nombre": "mewtwo",
         "altura": 20,
         "peso": 1220,
         "tipo_pokemon": [
             "psychic"
         ]
     },
-    "mew": {
-        "id": 151,
+    "151": {
+        "nombre": "mew",
         "altura": 4,
         "peso": 40,
         "tipo_pokemon": [

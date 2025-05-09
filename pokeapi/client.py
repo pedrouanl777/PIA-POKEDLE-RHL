@@ -15,15 +15,15 @@ def gotta_catch_em_all():
     for poke_num in range(1,152):
         info = get_pokemon_info(poke_num) #saca la informacion de la id
         if info: 
-            pokemon_name = info["name"]
-            pokemon[pokemon_name] = {
-                "id": info["id"],
+            pokemon_id = info["id"]
+            pokemon[pokemon_id] = {
+                "nombre": info["name"],
                 "altura": info["height"],
                 "peso": info["weight"],
                 "tipo_pokemon": [pokemon_type["type"]["name"] for pokemon_type in info["types"]]
             }
 gotta_catch_em_all() #inicializa la funcion 
 json_string = json.dumps(pokemon, indent=4)
-print(json_string)
+#print(json_string) lo dejaba como verificador de que funciona, pero se imprime cada que lo importo
 with open("datos_estructurados.json", "w") as f:
         json.dump(pokemon, f, indent=4)
