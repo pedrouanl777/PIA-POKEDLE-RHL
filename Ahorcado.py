@@ -16,7 +16,7 @@ while Reintento==0:
     palabra = list((datos[num]["nombre"])) #saca su nombre
     cantidad = len(palabra) #cuenta la cantidad de letras 
     oculto = ["_"]*len(palabra) #oculta la palabra
-    letras = list('abcdefghijklmnñopqrstuvwxyz') #Para filtrar los caracteres validos
+    letras = list('abcdefghijklmnñopqrstuvwxyz-') #Para filtrar los caracteres validos
     descartes = [] #para contar las letras ya usadas
     invalido = 0
     totalInt = 0
