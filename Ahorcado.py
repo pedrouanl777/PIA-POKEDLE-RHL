@@ -1,12 +1,16 @@
+import pandas as pd
 import json
 import numpy as np 
-import statistics
 import time 
+import os
 print("Ingrese su nickname, este sera guardado para recoleccion de datos y lo podra seguir usando para futuro, solo recuerda donde pusiste mayusculas y minusculas")
-#nombre = input(str("Nickname: "))
+nombre = input("Nickname: ").lower()
 archivo = open("datos_estructurados.json", "r")
 datos = json.load(archivo)
+global_data = "global_data.csv"
 Reintento=0
+persona = {}
+
 while Reintento==0:
     num = str(np.random.randint(1,151))
     palabra = list((datos[num]["nombre"]))
@@ -80,13 +84,26 @@ while Reintento==0:
         print("Felicidades haz adivinado el pokemon")
     else:
         print("No lo haz logrado")
-    promaci = aciertos/totalInt
-    promfal = fallas/totalInt
     print("El pokemon era: ", (datos[num]["nombre"]))
     print("Tu total de intentos es: ", totalInt)
-    print("Tu promedio de fallas es: ", promfal)
-    print("Tu promedio de aciertos es: ", promaci)
+    print("Tu cantidad de fallas fueron: ", fallas)
+    print("Tu cantidad de aciertos fueron: ", Intentos)
+# Recoleccion de datos
+    if not os.path.exists(global_data):
+        df = pd.DataFrame(columns=["Nombre", "Fallas", "Aciertos"])
+    else:
+        df = pd.read_csv(global_data)
+    if nombre in df["Nombre"].values:
+        df.loc[df["Nombre"] == nombre, "Fallas"] += fallas
+        df.loc[df["Nombre"] == nombre, "Aciertos"] += aciertos
+        print("Datos actualizados")
+    else:
+        nuevo = {"Nombre": nombre, "Fallas": fallas, "Aciertos": aciertos}
+        df = pd.concat([df, pd.DataFrame([nuevo])], ignore_index=True)
+        print("Nuevo usuario agregado.")
+    df.to_csv(global_data, index=False)
     print("¿Deseas intentar otro pokemon?(y/n)")
+
     while invalido == 0:
         invalido = 1
         respuesta=input(str("")).lower()
@@ -105,3 +122,4 @@ while Reintento==0:
             print("Dijo algo invalido, escriba (y) si quiere seguir o (n) si no quiere seguir los parentesis son para remarcar")
             invalido = 0
             Reintento = 1
+
