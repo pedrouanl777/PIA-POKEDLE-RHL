@@ -121,4 +121,3 @@ while Reintento==0:
             print("Dijo algo invalido, escriba (y) si quiere seguir o (n) si no quiere seguir los parentesis son para remarcar") 
             invalido = 0
             Reintento = 1
-
